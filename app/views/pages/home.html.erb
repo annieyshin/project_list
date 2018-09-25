@@ -1,9 +1,11 @@
-<h1>Noteworthy Projects</h1>
+<h1>PORTFOLIO</h1>
 
 <% if current_user %>
-  <%= link_to 'See all projects', projects_path %>
-  <hr>
   <%= link_to 'Sign Out', destroy_user_session_path, method: :delete %>
+  <hr>
+  <hr>
+  <%= link_to 'Projects', projects_path %>
+
 <% else %>
   <%= link_to 'Sign Up', new_user_registration_path %>
   <%= link_to 'Sign In', new_user_session_path %>

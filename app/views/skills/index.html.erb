@@ -1,6 +1,9 @@
 <p id="notice"><%= notice %></p>
+<div class="jumbotron">
+  <h1>Skills</h1>
+</div>
 
-<h1>Skills</h1>
+
 
 <table>
   <thead>
@@ -17,7 +20,7 @@
       <tr>
         <td><%= skill.title %></td>
         <td><%= skill.body %></td>
-        <td><%= skill.user %></td>
+        <td><%= skill.user.email %></td>
         <td><%= link_to 'Show', skill %></td>
         <% if current_user && current_user.admin %>
         <td><%= link_to 'Edit', edit_skill_path(skill) %></td>
