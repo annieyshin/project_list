@@ -10,6 +10,30 @@
   </head>
 
   <body>
-    <%= yield %>
+    <%= flash[:alert] %>
+    <%= flash[:notice] %>
+
+    <nav class="navbar navbar-light">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <h1>PORTFOLIO</h1>
+          <h2>Project List</h2>
+        </div>
+
+
+        <ul class="nav navbar-nav navbar-right">
+          <span class="navbar-text">
+            <h2><%= link_to "Add New Project", new_project_path %></h2>
+          </span>
+          <span class="navbar-text">
+            <h2 class="homelinktext"><%= link_to "Home", projects_path %></h2>
+          </span>
+        </ul>
+      </div>
+     </nav>
+
+  <div class="container">
+      <%= yield %>
+  </div>
   </body>
 </html>
