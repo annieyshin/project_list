@@ -12,3 +12,17 @@
  */
  @import "bootstrap-sprockets";
  @import "bootstrap";
+
+body {
+  background-color: #99ff99;
+}
+
+.container {
+  text-align: center;
+}
+
+
+td {
+  padding: 10px;
+  outline: 1px solid orange;
+}
