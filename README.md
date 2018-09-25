@@ -8,18 +8,45 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
+  - Uses devise and bootstrap gems
 
 * Configuration
 
 * Database creation
+  - From the root of the repo run the following command to set up the database for development and testing:
+  ```
+  rake db:setup
+  ```
 
 * Database initialization
 
 * How to run the test suite
+  - run the application
+  ```
+  rails s
+  ```
+  - Copy and paste the localhost file from the command prompt into your browser's url
+  ```
+  localhost:3000
+  ```
 
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+
+<hr />
+## Setup/Contribution Requirements
+
+1. Clone the repo
+1. Run Bundle Install:
+```
+bundle install
+```
+1. From the root of the repo run the following command to set up the database for development and testing:
+```
+rake db:setup
+```
+
 <hr />
 
 ```
