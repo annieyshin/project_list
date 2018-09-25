@@ -6,20 +6,16 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+2.4.1
 
 * System dependencies
-  - Uses devise and bootstrap gems
+  - Uses jquery, devise, and bootstrap gems
 
-* Configuration
-
-* Database creation
+* Database initialization & creation
   - From the root of the repo run the following command to set up the database for development and testing:
   ```
   rake db:setup
   ```
-
-* Database initialization
-
 * How to run the test suite
   - run the application
   ```
@@ -30,7 +26,6 @@ Things you may want to cover:
   localhost:3000
   ```
 
-* Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
 
