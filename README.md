@@ -47,24 +47,24 @@ rake db:setup
 ```
 Personal Strengths & Traits
 ```
-1. Caring and Creative office personality, work hard, and listen intently
-1. Cultivates good culture through focusing on communication
-1. Comical and adorkable, I've left every job with life long friends and it's because I work on deliverables and finishing objectives, but also fill the time between with enriching work environments
-1. Fast Learner, and you will see the value I add to everyday work life by picking up skills and being a team player
-1. Fun, friendly, and supportive
-1. Multifaceted Jane of all trades
-1. Artistic, yet logical, utilizing both hemispheres of my brain
+1. A veritable hodge podge of dynamic and endearing qualities. I am a caring and creative individual who likes to ask people about not only their work but how they are feeling and about their backgrounds. I assimilate easily into groups by deploying sometimes off the charts charisma, but always with a good sense of humor and open mind.
+1. Remarkable team player, focusing on thorough communication, clear objectives, and manageable timelines. I have worked on enough high stakes and fast paced projects that sometimes one must be malleable and other times firm in order to work best within a group.
+1. Adorable and Friendly, I've left every job with life long friends and it's because I work hard, but also make a point to reach out and really get to know my colleagues.
+1. Fast Learner, and you will see the value I add to everyday work life by picking up skills and being able to train others in turn.
+1. Supportive, I love to jump in when help is required, whether it's helping review a big submission of work or fixing the coffee machine. I want to know how best to support everything and everyone.
+1. Artistic, yet analytical, with a background in STEM and fine arts.
 
 ```
 Hobbies & Interests
 ```
 1. Design
 1. Research
-1. Music
-1. Cooking
-1. Yoga & Dance
+1. Intuitive UI/UX
+1. ALL THE CRAFTS!!!
 
 ```
 Insights from this project
 ```
-1. Admittedly, I do not excel at talking myself up. I typically get to know people around me as a social outgoing person, and bring humor and an open mindedness to each and every interaction. My strengths are many, across a wide spectrum of interests and abilities, but to write about it and put it into a portfolio or some sort is not one of them. Talking myself up, is probably one of my least favorite things to do, but I can speak to the fact that I try genuinely to be everyone's friend and acknowledge that people spend more time with their colleagues than their own friends and family. I strive to make every day feel like one where people are not alone and can seek the support and help they need regardless of the subject.
+1. Admittedly, I do not excel at talking myself up, nor did I figure out how to set up a project with the devise gem without failing a few times.
+
+However, I feel like this is a good foundation repository for building a deployable portfolio site. Hopefully to be revamped and ready for use in showcasing my work while job hunting.
