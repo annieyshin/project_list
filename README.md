@@ -47,7 +47,7 @@ rake db:setup
 ```
 Personal Strengths & Traits
 ```
-1. A veritable hodge podge of dynamic and endearing qualities. I am a caring and creative individual who likes to ask people about not only their work but how they are feeling and about their backgrounds. I assimilate easily into groups by deploying sometimes off the charts charisma, but always with a good sense of humor and open mind.
+1. A veritable hodge podge of dynamic and endearing qualities. I am a caring and creative individual who likes to ask people about not only their work but how they are feeling and about their backgrounds. I assimilate easily into groups by deploying sometimes off the charts charisma, but always with a good sense of humor and an open mind.
 1. Remarkable team player, focusing on thorough communication, clear objectives, and manageable timelines. I have worked on enough high stakes and fast paced projects that sometimes one must be malleable and other times firm in order to work best within a group.
 1. Adorable and Friendly, I've left every job with life long friends and it's because I work hard, but also make a point to reach out and really get to know my colleagues.
 1. Fast Learner, and you will see the value I add to everyday work life by picking up skills and being able to train others in turn.
